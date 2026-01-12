@@ -15,7 +15,7 @@ RainDrops es una escena interactiva de lluvia de colores con una barrera que apl
 ### 🛠️ Desarrollo
 - Se creó la clase `Drop` para manejar atributos de cada gota: color, tamaño y posición.  
 - Se implementó el conjunto de gotas y su movimiento dinámico.  
-- Se añadió la barrera que elimina color en las gotas que caen por debajo.  
+- Se añadió la barrera que modifica el color de las gotas que caen por debajo.  
 - Se corrigieron errores y se pulieron detalles finales.
 
 ### 📽️ Resultado
@@ -45,7 +45,7 @@ RainDrops is an interactive colored rain scene with a barrier that removes color
 ### 🛠️ Development
 - Created a `Drop` class to handle attributes of each raindrop: color, size, and position.  
 - Implemented the full set of drops and their dynamic movement.  
-- Added the barrier that removes color from drops below it.  
+- Added the barrier that modifies the color from drops below it.  
 - Fixed errors and polished final details.
 
 ### 📽️ Result
